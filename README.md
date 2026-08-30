@@ -54,6 +54,24 @@ A payment application to demonstrate <strong>real-world</strong> usage of <a hre
 🔥 Database Seeding with End-to-end Tests
 💻 CI/CD + [Cypress Cloud][cypresscloud]
 
+## 🧪 My Cypress Automation
+
+This repository contains my automated UI tests developed with Cypress and TypeScript as part of my QA learning journey.
+
+### Automated Scenarios
+
+- Login with valid credentials
+- Login with invalid credentials
+- User signup
+- Validation of required fields
+
+### Technologies
+
+- Cypress
+- TypeScript
+- Page Object Model (POM)
+- Git/GitHub
+
 ## Getting Started
 
 The Cypress Real-World App (RWA) is a full-stack Express/React application backed by a local JSON database ([lowdb]).
